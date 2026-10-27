@@ -7,20 +7,6 @@ This diagram documents the original ClinicOps lab environment. A Windows Server 
 ## Architecture Diagram
 ![ClinicOps Phase 1 Architecture](ClinicOps%20Phase%201%20Architecture%20Diagram.png)
 
-## Configuration Summary
-
-| Component | Configuration |
-|---|---|
-| Hypervisor | Hyper-V |
-| Virtual machine | `ClinicOps-DC1` |
-| Operating system | Windows Server 2025 Standard Evaluation with Desktop Experience |
-| Virtual machine generation | Generation 2 |
-| Virtual networking | `ClinicOps-Private` private virtual switch |
-| Static IPv4 address | `10.10.10.10` |
-| Subnet mask | `255.255.255.0` |
-| Active Directory domain | `clinicops.test` |
-| Directory structure | `ClinicOps` organizational unit |
-| Directory services | Active Directory Domain Services and DNS |
 
 ## What This Lab Demonstrates
 
