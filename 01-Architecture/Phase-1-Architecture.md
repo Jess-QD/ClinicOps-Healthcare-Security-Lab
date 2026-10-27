@@ -14,7 +14,7 @@ This diagram documents the original ClinicOps lab environment. A Windows Server 
 - Configuring an isolated virtual network and static IP settings.
 - Installing Active Directory Domain Services and promoting a server to a domain controller.
 - Organizing fictional user accounts and security groups in an organizational unit.
-- Using PowerShell to inspect directory configuration, verify group membership, and export reports.
+
 
 ## Environment Notes
 
