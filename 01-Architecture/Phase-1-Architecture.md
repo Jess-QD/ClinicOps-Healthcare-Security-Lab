@@ -5,7 +5,7 @@
 This diagram documents the original ClinicOps lab environment. A Windows Server 2025 virtual machine was created on a Hyper-V host and configured as a domain controller for the isolated `clinicops.test` Active Directory domain.
 
 ## Architecture Diagram
-![ClinicOps Phase 1 Architecture](Phase-1-Architecture.png)
+![ClinicOps Phase 1 Architecture](ClinicOps%20Phase%201%20Architecture%20Diagram.png)
 
 ## Configuration Summary
 
