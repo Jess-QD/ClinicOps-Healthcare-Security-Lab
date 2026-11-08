@@ -93,7 +93,7 @@ The project demonstrates selected technical skills and security concepts. It is 
 ## Project Status
 
 **Phase 1:** Completed
-**Phase 2:** In progress
+**Phase 2:** Completed
 **Phase 3:** Planned
 
 This README will be updated as additional exercises, scripts, verification evidence, and investigation reports are completed.
